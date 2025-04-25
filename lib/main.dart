@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+// Bu proje, Erciyes Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü, Dr. Öğr. Üyesi FEHİM KÖYLÜ tarafından verilen Mobile Application Development dersi kapsamında, Flutter framework’ü kullanılarak bir mobil uygulama geliştirilmesini amaçlamaktadır.
+// Hazırlayan: Tunahan Akçay
+
 void main() {
   runApp(DismissibleApp());
 }
